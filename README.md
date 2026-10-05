@@ -1,5 +1,4 @@
 # Projection-of-Straight-Lines
-# GeoProjector — Engineering Line Projection Solver
 
 This is a Python-based engineering drawing and geometry visualization tool for solving and visualizing the **orthographic projection of a straight line inclined to both the Horizontal Plane (HP) and Vertical Plane (VP)**.
 
